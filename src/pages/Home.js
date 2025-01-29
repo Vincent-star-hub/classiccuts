@@ -16,6 +16,7 @@ import {
 import barbershop from "../images/barbershop2.jpg";
 import barberinterior from "../images/barberinterior.jpg";
 import barberatwork from "../images/barberatwork.jpg";
+import man from "../images/man.jpg";
 
 const Home = () => {
   const [hoveredService, setHoveredService] = useState(null);
@@ -97,7 +98,7 @@ const Home = () => {
       comment:
         "Best haircut experience I've ever had. The attention to detail is remarkable.",
       rating: 5,
-      image: "/api/placeholder/64/64",
+      image: man,
     },
     {
       name: "Mike Johnson",
@@ -105,14 +106,14 @@ const Home = () => {
       comment:
         "Their beard grooming service is top-notch. Won't go anywhere else.",
       rating: 5,
-      image: "/api/placeholder/64/64",
+      image: man,
     },
     {
       name: "David Williams",
       role: "Entrepreneur",
       comment: "Professional service with amazing results. Highly recommended!",
       rating: 5,
-      image: "/api/placeholder/64/64",
+      image: man,
     },
   ];
 

@@ -32,7 +32,7 @@ const Services = () => {
       title: "Hair Color & Highlights",
       description: "Professional hair coloring and highlighting services",
       duration: "90 mins",
-      price: "from ₱1,500",
+      price: "₱1,500",
       icon: <SprayCan className="w-6 h-6" />,
       gradient: "from-orange-400 to-amber-400",
     },
