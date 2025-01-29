@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/classiccuts/static/css/main.962e1312.css",
-    "main.js": "/classiccuts/static/js/main.fcb1a422.js",
+    "main.js": "/classiccuts/static/js/main.2e1d48a8.js",
     "static/js/373.58b500fc.chunk.js": "/classiccuts/static/js/373.58b500fc.chunk.js",
     "static/media/barbershop2.jpg": "/classiccuts/static/media/barbershop2.fbac44dced86046ceebc.jpg",
     "static/media/barberinterior.jpg": "/classiccuts/static/media/barberinterior.f6bf044f95301ca9a1b4.jpg",
@@ -19,14 +19,15 @@
     "static/media/barber4.jpg": "/classiccuts/static/media/barber4.a6264dbd0181824271e7.jpg",
     "static/media/barber2.jpg": "/classiccuts/static/media/barber2.3cef6bbfa7949e281dde.jpg",
     "static/media/barber3.jpg": "/classiccuts/static/media/barber3.98f1d3e8ee4274e97aca.jpg",
+    "static/media/man.jpg": "/classiccuts/static/media/man.29a1d002828929af3d88.jpg",
     "static/media/texturedcrop.jpg": "/classiccuts/static/media/texturedcrop.8863152b2f1af450f139.jpg",
     "index.html": "/classiccuts/index.html",
     "main.962e1312.css.map": "/classiccuts/static/css/main.962e1312.css.map",
-    "main.fcb1a422.js.map": "/classiccuts/static/js/main.fcb1a422.js.map",
+    "main.2e1d48a8.js.map": "/classiccuts/static/js/main.2e1d48a8.js.map",
     "373.58b500fc.chunk.js.map": "/classiccuts/static/js/373.58b500fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.962e1312.css",
-    "static/js/main.fcb1a422.js"
+    "static/js/main.2e1d48a8.js"
   ]
 }
