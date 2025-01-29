@@ -19,7 +19,7 @@ const ScrollToTop = () => {
 
 const App = () => {
   return (
-    <BrowserRouter basename="/classicuts">
+    <BrowserRouter basename="/barbershop">
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Layout />}>
